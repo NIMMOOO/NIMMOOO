@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NIMMOOO
+- 👋 Hi, I’m @NIVEDITA
 - 👀 I’m interested in CODING/LEARNING NEW THINGS/SCIENCE
 - 🌱 I’m currently learning C PROGRAMMING/JAVA/WEBDEVELOPMENT/PYTHON
 - 💞️ I’m looking to collaborate on GOOD PROJECT SO THAT I CAN GET TO LEARN SOMETHING
